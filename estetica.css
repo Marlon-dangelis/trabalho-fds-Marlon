@@ -1,0 +1,36 @@
+.fundo{background-color: bisque; }
+
+.title{color: brown;
+     text-align: center;}
+
+.bio{text-align: justify; 
+     font-size: 20px;}
+
+.lista-de-atividades{line-height: 30px;}
+
+.violao{border-radius: 30px;
+         height: 150px;
+        width: 300px;
+        margin-bottom: 40px;}
+
+.country, td, th{
+    border-collapse:collapse;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid;
+    background-color:chocolate;}
+
+.countryimg {
+     height: 50px;
+     width: 100px;
+}
+
+.link{line-height: 100px;}
+
+.link:hover{color: rgb(0, 255, 13);}
+
+
+.button{font-weight:bold;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;}
